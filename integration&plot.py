@@ -1,3 +1,4 @@
+# nouveau commentaire
 #3.2
 def diffList(V):
     n=len(V)
